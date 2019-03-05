@@ -1,0 +1,12 @@
+b007b970838dfd22943013a00b4a6e52 *DESCRIPTION
+622a3bc92c49c16976493fd5dfea08f4 *NAMESPACE
+1ddd3c880ba21fb9e94292fd2bc1e191 *R/dependencies.R
+143febe94c8d45d671d2210c0e7be6e6 *R/loader.R
+da72432651a136e29bf5ee64d91f3195 *R/util.R
+372b381098c71a67c66813a72b3177ca *R/writer.R
+202a40b5d4e14571cc1d0657008ea590 *README.md
+0cc82c66ec7886e47b404b10da7dc07b *man/spark_read_tfrecord.Rd
+f544fe3d6eb1e5300f703e52a16e5940 *man/spark_write_tfrecord.Rd
+a31e8dfd0c33a9acd74ddd8a306ed9df *tests/testthat.R
+8d1d43e26d918775a93d11a97eb94abe *tests/testthat/helper-initialize.R
+543de78407a6371d92ab434c05496135 *tests/testthat/test-roundtrip.R
